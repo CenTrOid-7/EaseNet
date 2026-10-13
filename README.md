@@ -70,3 +70,7 @@ EaseNet is an early-stage educational project focused on understanding how neura
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+To provide feedback, suggestions, and/or comments, please contact : email - abhigyan.bhatt07@gmail.com
