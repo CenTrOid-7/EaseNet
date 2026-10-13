@@ -46,7 +46,7 @@ pip install numpy matplotlib pandas
 
 ```text
 EaseNet/
-├── easenet.py
+├── EaseNet_V1.0.py
 ├── README.md
 └── LICENSE
 ```
